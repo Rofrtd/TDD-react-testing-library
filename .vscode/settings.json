@@ -1,0 +1,6 @@
+{
+    "prettier.arrowParens": "avoid",
+    "prettier.jsxSingleQuote": true,
+    "prettier.prettierPath": "~/Personal-Projects/react-studies/node_modules/prettier",
+    "prettier.useTabs": true
+}
